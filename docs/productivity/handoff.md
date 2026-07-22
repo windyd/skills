@@ -1,14 +1,14 @@
 Quickstart:
 
 ```bash
-npx skills add mattpocock/skills --skill=handoff
+npx skills add windyd/skills --skill=handoff
 ```
 
 ```bash
 npx skills update handoff
 ```
 
-[Source](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)
+[Source](https://github.com/windyd/skills/tree/main/skills/productivity/handoff)
 
 ## What it does
 

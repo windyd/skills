@@ -1,14 +1,14 @@
 Quickstart:
 
 ```bash
-npx skills add mattpocock/skills --skill=grill-me
+npx skills add windyd/skills --skill=grill-me
 ```
 
 ```bash
 npx skills update grill-me
 ```
 
-[Source](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me)
+[Source](https://github.com/windyd/skills/tree/main/skills/productivity/grill-me)
 
 ## What it does
 

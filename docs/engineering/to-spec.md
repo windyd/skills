@@ -1,14 +1,14 @@
 Quickstart:
 
 ```bash
-npx skills add mattpocock/skills --skill=to-spec
+npx skills add windyd/skills --skill=to-spec
 ```
 
 ```bash
 npx skills update to-spec
 ```
 
-[Source](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-spec)
+[Source](https://github.com/windyd/skills/tree/main/skills/engineering/to-spec)
 
 ## What it does
 
